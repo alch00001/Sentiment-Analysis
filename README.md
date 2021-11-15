@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 Final Project for Neural Network and Implementation.
 
-This repository contains code for creating word vectors and performing sentiment analysis on hate speech for Bengali and Hindi.
+This repository contains code for creating word vectors and performing sentiment analysis on hate speech for Bengali and Hindi with machine learning models using PyTorch.
 
 NNTI_final_project_task_1.ipynb = Original word embeddings using skipgram.
 
