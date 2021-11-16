@@ -56,28 +56,3 @@ In this third and final task of this project, you are expected to -
 * Improve on the 3 accuracy scores from Task 2
 
 Note: The task here should be a change in the model architecture, data representation, different approach, or some other similar considerable change in your process pipeline.  Please note that although you should consider fine-tuning the model hyperparameters manually, just doing that does not count as a change here.
-
-## General Guidelines
-* You are not allowed to use ready-made libraries like Hugging Face.
-* You are allowed to use convenience methods for data loading & preprocessing from packages  like  *scipy*,  *numpy*, *pandas*, *sklearn*, *NLTK*. If  you  use  other  packages,  provide  areference and justify it.
-* Plagiarism will be penalized and can eventually lead to disqualification from the project and the course. Most importantly, we will check for plagiarism within groups. If we see any clear indication of plagiarism among groups, both the groups will be awarded 0 for the whole project. Discussion with groups is allowed (only in terms of concepts but not directly with code).
-* Cite any resources that you found to be helpful.
-* You are expected to provide a separate notebook for each task. However, the notebook should only contain runtime code. Functions or classes you write should be in separate python scripts (.py) that are imported into the notebook of that task.
-* Your code should be sufficiently commented so that we can grade it easily. Not providing proper documentation can lead to your code not being graded.
-* Write a well-documented academic report. The report needs to be 4-8 pages long following the NIPS format. You can have a look at Latex versions or in other formats. We expect from you a .pdf file from you. The way how you divide it is up to you but we roughly expect to have introduction, methodology, results, and conclusion sections. Of course you will have to cite every source that you use.
-* The main focus of our grading will be your observations and analysis of the results. Even though you might obtain bad results make comments on what could have gone wrong.
-
-## Submission instructions
-* You are required to submit the final project as a team of two students.
-* You should submit a detailed report and implementation in a zip file. Link to the repository should also suffice.
-* Make sure to write the MS Teams username, matriculation number, and the name of eachmember of your team on your submission.
-* If you have any trouble with the submission, contact the tutors before the deadline.
-
-## Contact
-In case you encounter any problems or have any doubts regarding this project, please feel free to contact the tutors in charge (*Julius Dietmar Steuer*, *Sourav Dutta*) on MS Teams.
-
-## References
-1. Tomas  Mikolov,  Ilya  Sutskever,  Kai  Chen,  Greg  S  Corrado,  and  Jeff  Dean. Distributed representations of words and phrases and their compositionality. *Advances in neural information processing systems*, 26:3111–3119, 2013.
-2.  Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. Efficient estimation of word representations in vector space. *arXiv preprint arXiv:1301.3781*, 2013.
-3.  Jeffrey Pennington, Richard Socher, and Christopher D Manning. Glove: Global vectors forword representation. *In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)*, pages 1532–1543, 2014.
-4.  Thomas Mandl, Sandip Modha, Prasenjit Majumder, Daksh Patel, Mohana Dave, Chintak Mandlia,  and  Aditya  Patel.   Overview  of  the  hasoc  track  at  fire  2019:  Hate speech  and offensive content identification in indo-european languages. *In Proceedings of the 11th Forum for Information Retrieval Evaluation*, pages 14–17, 2019.
